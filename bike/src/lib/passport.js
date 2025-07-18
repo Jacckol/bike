@@ -3,6 +3,7 @@ const LocalStrategy = require('passport-local').Strategy;
 const { cifrarDatos, descifrarDatos, hashPassword, comparePassword } = require('./encrypDates');
 const { Usuario, Cliente } = require('../database/dataBase.orm');  
 const { usuarioModel, clienteModel } = require('../database/dataBaseMongose');
+
    
 
 //registro

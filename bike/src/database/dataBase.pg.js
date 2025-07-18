@@ -4,7 +4,7 @@ const dotenv = require('dotenv');
 
 dotenv.config();
 
-const { POSTGRESHOST, POSTGRESUSER, POSTGRESPASSWORD, POSTGRESDATABASE, POSTGRESPORT } = require("../config/keys");
+const { POSTGRESHOST, POSTGRESUSER, POSTGRESPASSWORD, POSTGRESDATABASE, POSTGRESPORT } = require("../config/key.example");
 
 const pool = new Pool({
     user: POSTGRESUSER,

@@ -27,6 +27,7 @@ require('./lib/passport');
 // Importar conexiones a bases de datos
 require('./database/dataBase.orm'); 
 require('./database/dataBaseMongose'); 
+require('./database/dataBase.pg'); 
 
 // Crear aplicación Express
 const app = express();

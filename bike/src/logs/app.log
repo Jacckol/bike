@@ -108,3 +108,15 @@ Stack: SyntaxError: Expected double-quoted property name in JSON at position 272
 2025-07-17 22:19:07 [INFO]: ✅ Conexión establecida con PostgreSQL
 2025-07-17 22:19:08 [INFO]: ✅ Modelos de PostgreSQL sincronizados
 2025-07-17 22:19:22 [INFO]: [0mGET /api/bicicletas [32m200[0m 87.347 ms - 353[0m
+2025-07-18 13:32:01 [INFO]: ⚠️ CSRF protection desactivada en desarrollo
+2025-07-18 13:32:01 [INFO]: El servidor está escuchando en el puerto 4500
+2025-07-18 13:32:02 [INFO]: ✅ Mongoose conectado a MongoDB
+2025-07-18 13:32:02 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-18 13:32:02 [INFO]: ✅ Conexión establecida con PostgreSQL
+2025-07-18 13:32:02 [INFO]: ✅ Modelos de PostgreSQL sincronizados
+2025-07-18 13:33:56 [INFO]: ⚠️ CSRF protection desactivada en desarrollo
+2025-07-18 13:33:56 [INFO]: El servidor está escuchando en el puerto 4500
+2025-07-18 13:33:56 [INFO]: ✅ Mongoose conectado a MongoDB
+2025-07-18 13:33:56 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-18 13:33:56 [INFO]: ✅ Conexión establecida con PostgreSQL
+2025-07-18 13:33:57 [INFO]: ✅ Modelos de PostgreSQL sincronizados
