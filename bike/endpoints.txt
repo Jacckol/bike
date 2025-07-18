@@ -1,0 +1,130 @@
+http://localhost:4500/api
+
+http://localhost:4500/api/registro
+{
+  "cedula": "9988776655",
+  "nombreCompleto": "Admin General del Sistema",
+  "rol": "admin",
+  "direccion": "Oficina Central, Av. Principal 456",
+  "telefono": "0999999999",
+  "email": "admin.sistema@email.com",
+  "username": "superadmin",
+  "password": "unaClaveDeAdminMuyFuerte789"
+},
+{
+  "cedula": "1722334455",
+  "nombreCompleto": "Ana Lucía Paredes",
+  "rol": "cliente",
+  "direccion": "Av. Amazonas y Eloy Alfaro, Edificio Flores, Apto 5",
+  "telefono": "0987654321",
+  "email": "ana.paredes@email.com",
+  "username": "anaparedes",
+  "password": "unaClaveSegura123"
+},
+{
+  "cedula": "1711223344",
+  "nombreCompleto": "Carlos Alberto Andrade",  
+  "direccion": "Calle de las Acacias 123, Quito",
+  "telefono": "0991234567",
+  "email": "carlos.andrade@email.com",
+  "username": "candrade",
+  "password": "otraClaveSuperSegura456"
+}
+
+
+http://localhost:4500/api/login
+{
+  "username": "juanperez",
+  "password": "password123"
+}
+
+http://localhost:4500/api/perfil
+
+http://localhost:4500/api/bicicletas
+{
+  "modelo": "Xtreme 500",
+  "marca": "Trek",
+  "serial": "456",
+  "estado": "disponible",
+  "precioHora": 3.5,
+  "caracteristicas": {
+    "tipo": "montaña",
+    "color": "rojo",
+    "tamanio": "M",
+    "cambios": 21,
+    "accesorios": ["luces", "casco"]
+  },
+  "mantenimientos": [
+    {
+      "fecha": "2025-07-01T10:00:00.000Z",
+      "descripcion": "Revisión general",
+      "costo": 25.5
+    }
+  ]
+}
+
+http://localhost:4500/api/inventario
+{
+  "marca": "Treke" ,
+  "modelo": "Xtreme 500",
+  "color": "Rojo",
+  "cantidad": 10,
+  "ubicacion": "Almacén Central 123",
+  "estado": "nuevo",
+  "fechaActualizacion": "2025-07-17T00:00:00.000Z",
+
+  "observaciones": "Este lote está en muy buen estado",
+  "historialEstados": [
+    { "fecha": "2025-07-01T00:00:00.000Z", "estado": "nuevo" }
+  ],
+  "notas": [
+    "Primer lote recibido"
+  ]
+}
+
+http://localhost:4500/api/estaciones
+{
+  "nombre": "Estación Central",
+  "direccion": "Av. Siempre Viva 742",
+  "capacidad": 20,
+  "estado": "activa",
+  "sensores": {
+    "temperatura": 25.3,
+    "humedad": 60
+  },
+  "historialEventos": [
+    {
+      "fecha": "2025-07-17T18:00:00.000Z",
+      "evento": "Estación inaugurada"      
+    }
+  ]
+}
+
+http://localhost:4500/api/alquiler
+{
+  "idCliente": 1,
+  "idBicicleta": 1,
+  "idEstacionInicio": 2,
+  "idEstacionFin": 3,
+  "horasAlquiladas": 2,
+  "costoTotal": 5.50,
+  "estado": "activo",
+  "mongo": {
+    "climaInicio": "soleado",
+    "notasCliente": "Todo en orden",
+    "historialEventos": [
+      {
+        "fecha": "2025-07-17T15:00:00Z",
+        "descripcion": "Inicio del alquiler"
+      }
+    ]
+  }
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,110 @@
+2025-07-16 22:38:18 [INFO]: ⚠️ CSRF protection desactivada en desarrollo
+2025-07-16 22:38:18 [INFO]: El servidor está escuchando en el puerto 4500
+2025-07-16 22:38:18 [INFO]: ✅ Conexión establecida con PostgreSQL
+2025-07-16 22:38:19 [INFO]: ✅ Modelos de PostgreSQL sincronizados
+2025-07-16 22:38:20 [INFO]: ✅ Mongoose conectado a MongoDB
+2025-07-16 22:38:20 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-16 22:38:58 [INFO]: ⚠️ CSRF protection desactivada en desarrollo
+2025-07-16 22:38:58 [INFO]: El servidor está escuchando en el puerto 4500
+2025-07-16 22:38:58 [INFO]: ✅ Conexión establecida con PostgreSQL
+2025-07-16 22:38:59 [INFO]: ⚠️ CSRF protection desactivada en desarrollo
+2025-07-16 22:38:59 [INFO]: El servidor está escuchando en el puerto 4500
+2025-07-16 22:38:59 [INFO]: ✅ Conexión establecida con PostgreSQL
+2025-07-16 22:38:59 [INFO]: ✅ Modelos de PostgreSQL sincronizados
+2025-07-16 22:39:00 [INFO]: ✅ Mongoose conectado a MongoDB
+2025-07-16 22:39:00 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-16 22:43:38 [INFO]: ⚠️ CSRF protection desactivada en desarrollo
+2025-07-16 22:43:38 [INFO]: El servidor está escuchando en el puerto 4500
+2025-07-16 22:43:38 [INFO]: ✅ Conexión establecida con PostgreSQL
+2025-07-16 22:43:39 [INFO]: ✅ Modelos de PostgreSQL sincronizados
+2025-07-16 22:43:40 [INFO]: ✅ Mongoose conectado a MongoDB
+2025-07-16 22:43:40 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-16 22:44:10 [INFO]: ⚠️ CSRF protection desactivada en desarrollo
+2025-07-16 22:44:10 [INFO]: El servidor está escuchando en el puerto 4500
+2025-07-16 22:44:10 [INFO]: ✅ Conexión establecida con PostgreSQL
+2025-07-16 22:44:10 [INFO]: ✅ Modelos de PostgreSQL sincronizados
+2025-07-16 22:44:12 [INFO]: ✅ Mongoose conectado a MongoDB
+2025-07-16 22:44:12 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-16 22:45:12 [INFO]: [0mGET /api/alquiler [32m200[0m 170.800 ms - 241[0m
+2025-07-16 22:45:58 [INFO]: [0mPOST /api/alquiler [32m201[0m 172.358 ms - 412[0m
+2025-07-16 22:46:46 [INFO]: [0mGET /api/alquiler/2 [32m200[0m 160.016 ms - -[0m
+2025-07-16 22:46:52 [INFO]: [0mGET /api/alquiler/1 [32m200[0m 155.186 ms - 892[0m
+2025-07-17 21:11:42 [INFO]: ⚠️ CSRF protection desactivada en desarrollo
+2025-07-17 21:11:42 [INFO]: El servidor está escuchando en el puerto 4500
+2025-07-17 21:11:42 [INFO]: ✅ Mongoose conectado a MongoDB
+2025-07-17 21:11:42 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-17 21:11:42 [ERROR]: ❌ No se pudo conectar a PostgreSQL: la autentificaci�n password fall� para el usuario �back�
+2025-07-17 21:11:42 [ERROR]: ❌ Error al sincronizar PostgreSQL: SequelizeConnectionError: la autentificaci�n password fall� para el usuario �back�
+2025-07-17 21:13:23 [INFO]: ⚠️ CSRF protection desactivada en desarrollo
+2025-07-17 21:13:23 [INFO]: El servidor está escuchando en el puerto 4500
+2025-07-17 21:13:23 [INFO]: ✅ Mongoose conectado a MongoDB
+2025-07-17 21:13:23 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-17 21:13:23 [ERROR]: ❌ No se pudo conectar a PostgreSQL: la autentificaci�n password fall� para el usuario �back�
+2025-07-17 21:13:23 [ERROR]: ❌ Error al sincronizar PostgreSQL: SequelizeConnectionError: la autentificaci�n password fall� para el usuario �back�
+2025-07-17 21:13:41 [INFO]: ⚠️ CSRF protection desactivada en desarrollo
+2025-07-17 21:13:41 [INFO]: El servidor está escuchando en el puerto 4500
+2025-07-17 21:13:41 [INFO]: ✅ Mongoose conectado a MongoDB
+2025-07-17 21:13:41 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-17 21:13:41 [ERROR]: ❌ No se pudo conectar a PostgreSQL: la autentificaci�n password fall� para el usuario �localhost�
+2025-07-17 21:13:41 [ERROR]: ❌ Error al sincronizar PostgreSQL: SequelizeConnectionError: la autentificaci�n password fall� para el usuario �localhost�
+2025-07-17 21:14:32 [INFO]: ⚠️ CSRF protection desactivada en desarrollo
+2025-07-17 21:14:32 [INFO]: El servidor está escuchando en el puerto 4500
+2025-07-17 21:14:32 [INFO]: ✅ Mongoose conectado a MongoDB
+2025-07-17 21:14:32 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-17 21:14:32 [ERROR]: ❌ No se pudo conectar a PostgreSQL: la autentificaci�n password fall� para el usuario �tu_usuario_postgres�
+2025-07-17 21:14:32 [ERROR]: ❌ Error al sincronizar PostgreSQL: SequelizeConnectionError: la autentificaci�n password fall� para el usuario �tu_usuario_postgres�
+2025-07-17 21:16:29 [INFO]: ⚠️ CSRF protection desactivada en desarrollo
+2025-07-17 21:16:29 [INFO]: El servidor está escuchando en el puerto 4500
+2025-07-17 21:16:29 [INFO]: ✅ Mongoose conectado a MongoDB
+2025-07-17 21:16:29 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-17 21:16:29 [INFO]: ✅ Conexión establecida con PostgreSQL
+2025-07-17 21:16:29 [INFO]: ✅ Modelos de PostgreSQL sincronizados
+2025-07-17 21:19:29 [ERROR]: Error: Expected double-quoted property name in JSON at position 272 (line 13 column 5)
+Stack: SyntaxError: Expected double-quoted property name in JSON at position 272 (line 13 column 5)
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\User\Desktop\bike-rental-main\bike\node_modules\body-parser\lib\types\json.js:77:19)
+    at C:\Users\User\Desktop\bike-rental-main\bike\node_modules\body-parser\lib\read.js:123:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (C:\Users\User\Desktop\bike-rental-main\bike\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\User\Desktop\bike-rental-main\bike\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\User\Desktop\bike-rental-main\bike\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-17 21:19:29 [INFO]: [0mPOST /api/bicicletas [31m500[0m 35.679 ms - 35[0m
+2025-07-17 21:22:31 [ERROR]: Error: Expected double-quoted property name in JSON at position 272 (line 13 column 5)
+Stack: SyntaxError: Expected double-quoted property name in JSON at position 272 (line 13 column 5)
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\User\Desktop\bike-rental-main\bike\node_modules\body-parser\lib\types\json.js:77:19)
+    at C:\Users\User\Desktop\bike-rental-main\bike\node_modules\body-parser\lib\read.js:123:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (C:\Users\User\Desktop\bike-rental-main\bike\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\User\Desktop\bike-rental-main\bike\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\User\Desktop\bike-rental-main\bike\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-17 21:22:31 [INFO]: [0mGET /api/bicicletas [31m500[0m 6.128 ms - 35[0m
+2025-07-17 21:22:40 [ERROR]: Error: Expected double-quoted property name in JSON at position 272 (line 13 column 5)
+Stack: SyntaxError: Expected double-quoted property name in JSON at position 272 (line 13 column 5)
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\User\Desktop\bike-rental-main\bike\node_modules\body-parser\lib\types\json.js:77:19)
+    at C:\Users\User\Desktop\bike-rental-main\bike\node_modules\body-parser\lib\read.js:123:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (C:\Users\User\Desktop\bike-rental-main\bike\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\User\Desktop\bike-rental-main\bike\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\User\Desktop\bike-rental-main\bike\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-17 21:22:40 [INFO]: [0mPOST /api/bicicletas [31m500[0m 3.121 ms - 35[0m
+2025-07-17 21:23:24 [INFO]: [0mPOST /api/estaciones [32m201[0m 84.568 ms - 433[0m
+2025-07-17 21:24:00 [INFO]: [0mPOST /api/inventario [32m201[0m 39.848 ms - 436[0m
+2025-07-17 21:24:36 [INFO]: [0mPOST /api/bicicletas [32m201[0m 28.752 ms - 303[0m
+2025-07-17 22:19:07 [INFO]: ⚠️ CSRF protection desactivada en desarrollo
+2025-07-17 22:19:07 [INFO]: El servidor está escuchando en el puerto 4500
+2025-07-17 22:19:07 [INFO]: ✅ Mongoose conectado a MongoDB
+2025-07-17 22:19:07 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-17 22:19:07 [INFO]: ✅ Conexión establecida con PostgreSQL
+2025-07-17 22:19:08 [INFO]: ✅ Modelos de PostgreSQL sincronizados
+2025-07-17 22:19:22 [INFO]: [0mGET /api/bicicletas [32m200[0m 87.347 ms - 353[0m

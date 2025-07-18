@@ -1,0 +1,5 @@
+# Dependencias de Node (no subir)
+node_modules/
+
+# Archivo de configuración con claves (no subir)
+src/config/keys.js
